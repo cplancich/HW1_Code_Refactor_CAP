@@ -65,4 +65,6 @@ THEN I find a concise, descriptive title
 
 Per the assignment, the deployed page looks exactly like the old one, but code has been updated to reflect clear semantics and consolidate redundant code. 
 
+Link to the deployed website can be found [here](https://cplancich.github.io/HW1_Code_Refactor_CAP/).
+
 ![Deployed Website](assets/images/Readme-preview.png)
