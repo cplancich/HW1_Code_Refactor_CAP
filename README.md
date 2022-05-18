@@ -58,9 +58,6 @@ THEN I find a concise, descriptive title
     * `.benefit-lead`, `.benefit-brand`, and `.benefit-cost` consolidated to `.benefit`, applied changes to html selectors
     *  `.online-reputation-management`, `.social-media-marketing`, and `.search-engine-optimization` classes consolidated to new `.article-bg` class, applied new class to other redundant occurances previously applied to elements within new `.article-bg`; updated html selectors with new `.article-bg` class
 
-
-* Removed unnecessary id selectors from `.article-bg` class selected elements in index.html
-
 ## Deployed Application
 
 Per the assignment, the deployed page looks exactly like the old one, but code has been updated to reflect clear semantics and consolidate redundant code. 
