@@ -1,4 +1,4 @@
-# Code Refactor Challenge
+# Semantics and Accessibility Code Refactor Challenge
 
 ## User Story
 
